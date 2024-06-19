@@ -6,7 +6,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [currentCategory, setCurrentCategory] = useState("general");
 
-  const api_key = "6d66302555ce4bbc8de797d2cfb3a179";
+  const api_key = "";
   const end_point = "https://newsapi.org/v2/top-headlines";
 
   useEffect(
