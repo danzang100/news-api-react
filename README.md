@@ -3,6 +3,6 @@
 So far things implemented:
 - Connected to News api
 - Sorting using different Parameters
+- Carousel feature also implemented
 
-Yet to implement:
-- Carousel for the flashcard functionality
+Latest site hosted at: --not yet hosted due to client protocol errors--
